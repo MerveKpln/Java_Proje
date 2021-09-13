@@ -1,5 +1,4 @@
 # Java_Proje
-# Java_Proje
 PROJE Output: 
 ==========URUN LISTESI=========
 Urun id : 1100000
